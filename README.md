@@ -1,5 +1,7 @@
-# Prompt-Engineering-4.1
+# Prompt-Engineering- 4
 # EXP 4 Scenario-Based Report Development Utilizing Diverse Prompting Techniques- Lab Scenario: Smart Health Assistant System
+## AIM: 
+To understand and apply various prompting techniques for generating different sections of a report based on a defined lab scenario. This exercise will demonstrate how targeted prompts can elicit specific information and formats suitable for a comprehensive report.
 ## 1. Introduction and Objectives
 ### 1.1 Project Overview
 The Smart Health Assistant System represents a cutting-edge integration of artificial intelligence and healthcare delivery. This system aims to bridge the gap between patients and healthcare providers by offering immediate, intelligent responses to health-related queries while maintaining the highest standards of medical accuracy and safety.
