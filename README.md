@@ -154,7 +154,7 @@ Strict adherence to healthcare privacy regulations ensures user information prot
 ### 5.4 Bias Mitigation Strategies
 Regular auditing and adjustment of prompting techniques to minimize potential biases in health recommendations across different demographic groups.
 
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/134bd5af-89eb-40e5-9c03-5f8a3c118fa6)
 
 
 ## 6. User Experience Design
